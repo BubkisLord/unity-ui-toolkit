@@ -1,5 +1,5 @@
 {
-  "name": "BubkisLord's UI Pack",
+  "name": "com.bubkislord.ui",
   "version": "1.0.0",
   "displayName": "UI Toolkit",
   "description": "The UI Toolkit package contains scripts and utilities for creating UI in Unity projects. The package is intended to solve common problems that arise when developing UI and menus.",
