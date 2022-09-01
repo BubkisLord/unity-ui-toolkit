@@ -36,3 +36,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - NavigationStack
 - ScrollToSelection
 - ScrollWithInput
+
+## [0.1.0] - 2022/09/01
+
+### Added
+
+- BetterNamespace
