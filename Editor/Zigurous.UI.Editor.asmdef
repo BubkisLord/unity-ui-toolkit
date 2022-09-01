@@ -1,7 +1,7 @@
 {
-    "name": "Zigurous.UI.Editor",
+    "name": "BubkisLord.UI.Editor",
     "references": [
-        "Zigurous.UI"
+        "BubkisLord.UI"
     ],
     "includePlatforms": [
         "Editor"
