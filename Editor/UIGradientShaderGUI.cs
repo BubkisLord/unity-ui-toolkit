@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Zigurous.UI.Editor
+namespace BubkisLord.UI.Editor
 {
     public sealed class UIGradientShaderGUI : ShaderGUI
     {
